@@ -10,4 +10,3 @@ class Hello
   end
   
 end
-
