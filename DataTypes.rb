@@ -96,9 +96,9 @@ class DataTypes
 end
 
 data_types = DataTypes.new
-#data_types.printAllNumerics
-#data_types.arithmeticOperations
-#data_types.letsTalkStringsQuickly
-#data_types.arrays
-#data_types.hashes
+data_types.printAllNumerics
+data_types.arithmeticOperations
+data_types.letsTalkStringsQuickly
+data_types.arrays
+data_types.hashes
 data_types.objects_and_their_equality
